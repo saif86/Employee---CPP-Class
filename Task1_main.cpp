@@ -13,7 +13,7 @@ void main() {
 	Address add1(27, "Railway Street", "Rawalpindi", "Punjab", 9200); // create Address object 
 	Employee emp1("Saif", 28, "37204-3468934-8", 70000, add1); // create Employee object 
 
-	emp1.print(); // print emp1 detail 
+	emp1.Print(); // print emp1 detail 
 
 	Employee emp2, emp3; // creating 2 more employee objects 
 
