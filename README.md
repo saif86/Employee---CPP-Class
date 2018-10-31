@@ -24,4 +24,4 @@ Develop a simple payroll application in C++. There are three kinds of employees 
 The salaried employee is paid monthly, hourly employee is paid hourly and commissioned employee is paid based on his/her sales. All the rates i.e. tax rate, hourly rate, commission rate is entered by the user. The final calculated salary should show net pay and not just the gross pay.
 
 ## Final UML Class Diagram of Employee case study
-![classdiagram1](https://user-images.githubusercontent.com/41892175/47768612-c5f3b380-dd13-11e8-9f00-64404bc5ad73.png)
+![classdiagram1](https://user-images.githubusercontent.com/41892175/47768763-58945280-dd14-11e8-9fa5-d32868e9198c.png)
