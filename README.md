@@ -16,3 +16,9 @@ Make a class **Manager** inherit from **Employee**. Add a unique member, departm
 
 ### Note:
 You are not allowed to rewrite the same code once written in base class. Use code reuse techniques instead. Also write default+overloaded constructors for the above three classes.
+
+## Task 3 - Polymorphism
+Develop a simple payroll application in C++. There are three kinds of employees in the system: salaried employee, hourly employee, and commissioned employee. The system takes as input an array containing employee objects, calculates salary polymorphically, and generates report.
+
+### Hint:
+The salaried employee is paid monthly, hourly employee is paid hourly and commissioned employee is paid based on his/her sales. All the rates i.e. tax rate, hourly rate, commission rate is entered by the user. The final calculated salary should show net pay and not just the gross pay.
